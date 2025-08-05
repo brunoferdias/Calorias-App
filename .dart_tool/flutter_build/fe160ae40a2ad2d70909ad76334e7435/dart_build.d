@@ -1,0 +1,1 @@
+ /Users/brunodias/Desktop/Repositórios/nutriscan/.dart_tool/flutter_build/fe160ae40a2ad2d70909ad76334e7435/dart_build_result.json: 
