@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
   @override
   Widget build(BuildContext context) {
-    final openAIKey = 'SUAAPI';
+    final openAIKey = 'suaApiOpenAI';
     return MultiProvider(
       providers: [
         ChangeNotifierProvider(create: (_) => MessageProvider()),
